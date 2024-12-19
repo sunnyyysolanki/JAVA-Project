@@ -1,0 +1,12 @@
+547901001
+bhavik
+123
+19
+99973422343
+male
+13123131
+saving
+23163.0
+Rs.200.0 was credited on (Thu Apr 06 09:12:55 IST 2023). Available Amount is: 23200.0
+Rs.5.0 was Debited on (null). Available Amount is: 23175.0
+Rs.12.0 was Debited on (Thu Apr 06 09:21:28 IST 2023). Available Amount is: 23163.0
